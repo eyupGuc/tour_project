@@ -10,7 +10,7 @@ function App() {
     <div className='container'>
       <Navbar/>
       <Header/>
-      <div className='main'>
+      <div className='img-container'>
       {data.map((item)=>{
        return <Card key={item.id} title={item.title} desc={item.desc} img={item.image}/>
       })}

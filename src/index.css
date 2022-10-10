@@ -3,9 +3,3 @@
   margin: 0;
   padding: 0;
 }
-body {
-  background-image: linear-gradient(rgb(121, 255, 255), white);
-  background-repeat: no-repeat;
-  height: 90vh;
-  font-family: "Caveat", cursive;
-}

@@ -9,7 +9,7 @@
     overflow: hidden;
   }
   .card h2 {
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 1rem;
     height: 2.5rem;
     font-size: 1.8rem;
   }
@@ -37,7 +37,7 @@
   .card:hover p {
     display: block;
     animation-name: block;
-    animation-duration: 0.8s;
+    animation-duration: 0.5s;
   }
   @keyframes block {
     0% {

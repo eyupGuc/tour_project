@@ -1,3 +1,9 @@
-.card{width: 250px; height: 250px; border: 2px solid red;}
+.card{width: 28rem; height: 24rem; border: 2px solid red;
+background-color: black;color: white; border-radius: 1rem; position: relative; overflow: hidden;
+}
 
-.card img{width: 200px; height: 200px;}
+.card img{width: 27rem; height: 20rem; border-radius: 1.5rem; }
+
+.card h2{
+    padding: 1rem 1.3rem;
+}

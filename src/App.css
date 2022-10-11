@@ -1,3 +1,13 @@
-.container{background-image: linear-gradient(rgb(121, 255, 255), white); background-size: cover;}
+.container {
+  background-image: linear-gradient(rgb(121, 255, 255), white);
+  background-size: cover;
+}
 
-.img-container{display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; }
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  
+  margin: 2rem 0.5rem;
+}
